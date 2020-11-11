@@ -758,3 +758,19 @@ a {
   font-size: 16px;
   margin: 4px 8px;
 }
+
+      .sidebar {
+        width: 400px;
+      }
+      .main-container {
+        margin-left: 400px;
+      }
+    
+      .post-item .right .feature-container {
+        border-radius: 10px;
+      }
+    
+      body {
+        background: #dee2e6;
+      }
+    

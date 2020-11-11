@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://npuyan.github.io/</id>
-    <title>Gridea</title>
-    <updated>2020-11-11T09:18:34.753Z</updated>
+    <title>npuyan</title>
+    <updated>2020-11-11T09:23:18.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://npuyan.github.io/"/>
     <link rel="self" href="https://npuyan.github.io/atom.xml"/>
-    <subtitle>不积跬步无以至千里</subtitle>
+    <subtitle>积跬步，至千里</subtitle>
     <logo>https://npuyan.github.io/images/avatar.png</logo>
     <icon>https://npuyan.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, npuyan</rights>
     <entry>
         <title type="html"><![CDATA[新的文章]]></title>
         <id>https://npuyan.github.io/post/xin-de-wen-zhang/</id>
@@ -23,11 +23,5 @@
         <link href="https://npuyan.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
     </entry>
 </feed>
