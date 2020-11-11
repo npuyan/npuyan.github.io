@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://npuyan.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-11-10T17:00:00.916Z</updated>
+    <updated>2020-11-11T08:59:45.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://npuyan.github.io/"/>
     <link rel="self" href="https://npuyan.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>不积跬步无以至千里</subtitle>
     <logo>https://npuyan.github.io/images/avatar.png</logo>
     <icon>https://npuyan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
