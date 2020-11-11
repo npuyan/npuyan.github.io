@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://npuyan.github.io/</id>
-    <title>npuyan</title>
-    <updated>2020-11-11T09:24:46.360Z</updated>
+    <title>郑不会</title>
+    <updated>2020-11-11T09:26:01.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://npuyan.github.io/"/>
     <link rel="self" href="https://npuyan.github.io/atom.xml"/>
     <subtitle>积跬步，至千里</subtitle>
     <logo>https://npuyan.github.io/images/avatar.png</logo>
     <icon>https://npuyan.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, npuyan</rights>
+    <rights>All rights reserved 2020, 郑不会</rights>
     <entry>
         <title type="html"><![CDATA[新的文章]]></title>
         <id>https://npuyan.github.io/post/xin-de-wen-zhang/</id>
