@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://npuyan.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-11-11T09:03:12.120Z</updated>
+    <updated>2020-11-11T09:06:33.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://npuyan.github.io/"/>
     <link rel="self" href="https://npuyan.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://npuyan.github.io/images/avatar.png</logo>
     <icon>https://npuyan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[新的文章]]></title>
+        <id>https://npuyan.github.io/post/xin-de-wen-zhang/</id>
+        <link href="https://npuyan.github.io/post/xin-de-wen-zhang/">
+        </link>
+        <updated>2020-11-11T09:04:44.000Z</updated>
+        <content type="html"><![CDATA[<p>gridea<img src="https://npuyan.github.io//post-images/1605085544774.JPG" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://npuyan.github.io/post/hello-gridea/</id>
